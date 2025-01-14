@@ -1,1 +1,3 @@
 rootProject.name = 'kotlin'
+
+include 'java-racingcar', 'java-ladder', 'java-blackjack', 'java-chess'
