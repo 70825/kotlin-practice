@@ -5,7 +5,6 @@ import org.junit.jupiter.api.Test;
 import racingcar.exception.ExceedCarNameLengthException;
 import racingcar.exception.HasBlankCarNameException;
 import racingcar.exception.InvalidCarNameFormatException;
-import racingcar.model.car.strategy.TestMovingStrategy;
 import racingcar.view.outputview.KoreanOutputView;
 
 import static org.assertj.core.api.Assertions.assertThat;
